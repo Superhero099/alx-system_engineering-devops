@@ -1,2 +1,2 @@
-#!/bash/bin
-su bettu
+#!/bin/bash
+su betty
